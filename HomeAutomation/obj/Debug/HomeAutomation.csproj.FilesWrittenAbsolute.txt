@@ -19,3 +19,24 @@
 /home/izic/Dokumenti/Programming/Web/HomeAutomation/HomeAutomation/bin/Raspberry.IO.dll.mdb
 /home/izic/Dokumenti/Programming/Web/HomeAutomation/HomeAutomation/bin/GreeterWcfService.dll
 /home/izic/Dokumenti/Programming/Web/HomeAutomation/HomeAutomation/bin/Client.exe
+/home/izic/Dokumenti/Programming/Aps.Net Applications/HomeAutomation/HomeAutomation-RPi-NV/HomeAutomation/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/izic/Dokumenti/Programming/Aps.Net Applications/HomeAutomation/HomeAutomation-RPi-NV/HomeAutomation/bin/HomeAutomation.dll.mdb
+/home/izic/Dokumenti/Programming/Aps.Net Applications/HomeAutomation/HomeAutomation-RPi-NV/HomeAutomation/bin/HomeAutomation.dll
+/home/izic/Dokumenti/Programming/Aps.Net Applications/HomeAutomation/HomeAutomation-RPi-NV/HomeAutomation/obj/Debug/HomeAutomation.dll
+/home/izic/Dokumenti/Programming/Aps.Net Applications/HomeAutomation/HomeAutomation-RPi-NV/HomeAutomation/obj/Debug/HomeAutomation.dll.mdb
+/home/izic/Dokumenti/Programming/Aps.Net Applications/HomeAutomation/HomeAutomation-RPi-NV/HomeAutomation/bin/Microsoft.Web.Infrastructure.dll
+/home/izic/Dokumenti/Programming/Aps.Net Applications/HomeAutomation/HomeAutomation-RPi-NV/HomeAutomation/bin/System.Web.Razor.dll
+/home/izic/Dokumenti/Programming/Aps.Net Applications/HomeAutomation/HomeAutomation-RPi-NV/HomeAutomation/bin/System.Web.Helpers.dll
+/home/izic/Dokumenti/Programming/Aps.Net Applications/HomeAutomation/HomeAutomation-RPi-NV/HomeAutomation/bin/System.Web.WebPages.dll
+/home/izic/Dokumenti/Programming/Aps.Net Applications/HomeAutomation/HomeAutomation-RPi-NV/HomeAutomation/bin/System.Web.WebPages.Deployment.dll
+/home/izic/Dokumenti/Programming/Aps.Net Applications/HomeAutomation/HomeAutomation-RPi-NV/HomeAutomation/bin/System.Web.WebPages.Razor.dll
+/home/izic/Dokumenti/Programming/Aps.Net Applications/HomeAutomation/HomeAutomation-RPi-NV/HomeAutomation/bin/System.Web.Mvc.dll
+/home/izic/Dokumenti/Programming/Aps.Net Applications/HomeAutomation/HomeAutomation-RPi-NV/HomeAutomation/bin/Raspberry.System.dll
+/home/izic/Dokumenti/Programming/Aps.Net Applications/HomeAutomation/HomeAutomation-RPi-NV/HomeAutomation/bin/GreeterWcfService.dll
+/home/izic/Dokumenti/Programming/Aps.Net Applications/HomeAutomation/HomeAutomation-RPi-NV/HomeAutomation/bin/Client.exe
+/home/izic/Dokumenti/Programming/Aps.Net Applications/HomeAutomation/HomeAutomation-RPi-NV/HomeAutomation/bin/Raspberry.IO.GeneralPurpose.dll
+/home/izic/Dokumenti/Programming/Aps.Net Applications/HomeAutomation/HomeAutomation-RPi-NV/HomeAutomation/bin/Raspberry.IO.GeneralPurpose.dll.mdb
+/home/izic/Dokumenti/Programming/Aps.Net Applications/HomeAutomation/HomeAutomation-RPi-NV/HomeAutomation/bin/Raspberry.IO.dll
+/home/izic/Dokumenti/Programming/Aps.Net Applications/HomeAutomation/HomeAutomation-RPi-NV/HomeAutomation/bin/Raspberry.IO.dll.mdb
+/home/izic/Dokumenti/Programming/Aps.Net Applications/HomeAutomation/HomeAutomation-RPi-NV/HomeAutomation/bin/Raspberry.IO.Interop.dll
+/home/izic/Dokumenti/Programming/Aps.Net Applications/HomeAutomation/HomeAutomation-RPi-NV/HomeAutomation/bin/Raspberry.IO.Interop.dll.mdb

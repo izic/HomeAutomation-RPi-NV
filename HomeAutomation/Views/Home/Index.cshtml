@@ -1,11 +1,8 @@
 ﻿
-
 <h2>Welcome to ASP.NET MVC @ViewData["Version"] on @ViewData["Runtime"]!</h2>
 
-@using (Html.BeginForm("TestButton", "Home", FormMethod.Post)) { 
+<ul>
+	<li><a href="/Home/TestButton">Test to see app is responsive</a> </li>
+	<li><a href="/Terrace/Index">Go to Watering System Management</a></li>
+</ul>
 
-<input id="Btn" type="submit" value="Test Button">
-}
-
-<a href="Home/TestButton">Blink</a> 
-<h2>Nešto</h2>

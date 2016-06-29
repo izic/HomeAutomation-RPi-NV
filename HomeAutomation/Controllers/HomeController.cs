@@ -25,14 +25,7 @@ namespace HomeAutomation.Controllers
 
 		public ActionResult TestButton ()
 		{
-
-			string name = "";
-			var binding = new BasicHttpBinding ();
-			var address = new EndpointAddress ("http://localhost:8090");
-			var client = new Client.MyServiceClient (binding, address);
-
-			client.Greet (name);
-
+			
 			return View ();
 		}
 	}

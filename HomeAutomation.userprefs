@@ -1,0 +1,19 @@
+﻿<Properties StartupItem="HomeAutomation/HomeAutomation.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="firefox" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="HomeAutomation/Controllers/HomeController.cs">
+    <Files>
+      <File FileName="HomeAutomation/Controllers/HomeController.cs" Line="15" Column="4" />
+      <File FileName="../../Libraries/raspberry-sharp-io/Raspberry.IO.GeneralPurpose/GpioConnectionDriver.cs" Line="230" Column="17" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/home/izic/Dokumenti/Programming/Web/HomeAutomation/HomeAutomation/Controllers/HomeController.cs" line="30" column="1" />
+      <Breakpoint file="/home/izic/Dokumenti/Programming/Libraries/raspberry-sharp-io/Raspberry.IO.GeneralPurpose/GpioConnectionSettings.cs" line="163" column="18" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <DisabledProjects>
+    <String>../../Libraries/raspberry-sharp-io/Raspberry.IO.GeneralPurpose/Raspberry.IO.GeneralPurpose.csproj</String>
+  </DisabledProjects>
+</Properties>
